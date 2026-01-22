@@ -5,7 +5,7 @@
 [![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
 
 
-#### [See it Live](https://github.com/Sonny-seven/Valentine.github.io)
+#### [See it Live](https://sonny-seven.github.io/Valentine.github.io/)
 
 ## Make your own version :computer:
 
